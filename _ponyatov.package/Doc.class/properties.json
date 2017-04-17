@@ -1,0 +1,14 @@
+{
+	"category" : "_ponyatov",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DmitryPonyatov 4/18/2017 01:04",
+	"instvars" : [
+		 ],
+	"name" : "Doc",
+	"pools" : [
+		 ],
+	"super" : "Str",
+	"type" : "normal" }
