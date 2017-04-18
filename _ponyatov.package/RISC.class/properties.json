@@ -1,0 +1,14 @@
+{
+	"category" : "_ponyatov",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DmitryPonyatov 4/18/2017 18:18",
+	"instvars" : [
+		 ],
+	"name" : "RISC",
+	"pools" : [
+		 ],
+	"super" : "CPU",
+	"type" : "normal" }
