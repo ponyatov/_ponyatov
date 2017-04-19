@@ -1,2 +1,3 @@
-access
-tag: aTag tag := aTag.
+accessing
+tag: anObject
+	tag := anObject

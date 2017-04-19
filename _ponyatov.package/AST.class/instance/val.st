@@ -1,2 +1,3 @@
-access
-val ^ val.
+accessing
+val
+	^ val

@@ -1,2 +1,3 @@
-access
-val: aVal val:= aVal.
+accessing
+val: anObject
+	val := anObject
