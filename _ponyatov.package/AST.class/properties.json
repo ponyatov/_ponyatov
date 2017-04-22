@@ -6,8 +6,9 @@
 		 ],
 	"commentStamp" : "DmitryPonyatov 4/18/2017 00:43",
 	"instvars" : [
-		"tag",
-		"val" ],
+		"val",
+		"nest",
+		"attr" ],
 	"name" : "AST",
 	"pools" : [
 		 ],

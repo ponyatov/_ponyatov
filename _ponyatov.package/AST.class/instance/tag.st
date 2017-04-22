@@ -1,3 +1,3 @@
 accessing
 tag
-	^ tag
+	^ self class asString asLowercase
