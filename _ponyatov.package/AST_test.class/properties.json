@@ -1,0 +1,14 @@
+{
+	"category" : "_ponyatov",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DmitryPonyatov 4/24/2017 08:40",
+	"instvars" : [
+		 ],
+	"name" : "AST_test",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
